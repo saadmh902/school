@@ -1,0 +1,8 @@
+1) CREATE TABLE sales_genre;
+INSERT INTO sales_genre *
+SELECT *
+FROM sales;
+2) SELECT Genre,Global_Sales, Critic_Score FROM sales_genre;
+3) SELECT ROUND(Global_Sales, 2) AS RoundValue;
+4) SELECT * FROM sales_genre WHERE Critic_score > 0;
+5) SELECT * FROM sales_genre WHERE Critic_score > 0 ORDER BY ID DESC;
