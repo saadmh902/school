@@ -1,1 +1,12 @@
+This README explains all the projects I worked on this semester
 
+I worked on the video games sales data for the most part, I went looking through the differences between shooter and sports sales and any similarity or disparities between the two genres. Averages minimums maximums and any other correlations.
+
+The structuring of the data is very simple
+
+/data/ holds the data process in which we would view the table
+/munge/ shows transformations
+/src/ shows aggregations
+/reports/ shows data visualization
+
+I learned quite a bit this semester!
