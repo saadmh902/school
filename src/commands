@@ -1,0 +1,18 @@
+1) CREATE TABLE average_critic_sports(
+   sports_critic_scofre VARCHAR(100));
+   CREATE TABLE average_critic_shooter(
+   shooter_critic_score VARCHAR(100));
+
+2)  CREATE TABLE average;
+	CREATE TABLE min;
+	CREATE TABLE max;
+
+3) CREATE TABLE globalsports;
+INSERT INTO global_sales,count
+SELECT global_sales,count
+FROM global_sales WHERE genre="sports";
+
+CREATE TABLE globalsports;
+INSERT INTO global_sales,count
+SELECT global_sales,count
+FROM global_sales WHERE genre="shooter";
